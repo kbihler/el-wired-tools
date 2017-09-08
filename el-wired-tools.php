@@ -15,7 +15,7 @@
  * @wordpress-plugin
  * Plugin Name:       El Wired Tools
  * Plugin URI:        elwired.com
- * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
+ * Description:       A tool box full of good stuff.
  * Version:           1.0.0
  * Author:            Kyle Bihler
  * Author URI:        kylebihler.com
